@@ -11,6 +11,8 @@
 - Pycharm, Google Colaboratory, Jupyter notebook
 
 
+
+
 #### [Description]
 > [code] Folder
   1.  Preprocessing Images 
@@ -29,6 +31,8 @@
   
     data_augmentation.py : used to increasing data
     data_augmentation.csv.py : augmentation image vectorization and create csv(excel) file
+
+
 
 
 > [data] Folder
