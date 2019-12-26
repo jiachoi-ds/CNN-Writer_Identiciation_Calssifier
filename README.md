@@ -1,17 +1,18 @@
 # Writer Identification using Deep Learning Keras CNN Model
 
-Korean Writer Identification using Deep Learning(CNN model)
 
-- Used Programming Language
-Python 3.6.8
+#### [Programming Language]
+- Python 3.6.8
 
-- Used Python Libarary
-Keras, OpenCV
+#### [Used Python Libarary]
+- Keras, OpenCV
 
-- Development Enviroment
-Pycharm, Google Colaboratory, Jupyter notebook
+#### [Development Enviroment]
+- Pycharm, Google Colaboratory, Jupyter notebook
 
-- [code] Folder
+
+#### [Description]
+[code] Folder
 1.  Preprocessing Images 
 first_preprocessing(crop1).py : used to cropped the original images and resizing images
 second_preprocessing(crop2).py : used to second cropped(for clear images) and save images 
@@ -28,7 +29,6 @@ data_augmentation.csv.py : augmentation image vectorization and create csv(excel
 
 
 - [data] Folder
-image : Original Image folder
 handwritten_test.csv : test dataset
 handwritten_train.csv : train dataset
 handwritten_valid.csv : validation dataset
