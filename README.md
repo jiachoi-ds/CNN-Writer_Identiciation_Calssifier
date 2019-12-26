@@ -12,7 +12,7 @@
 
 
 #### [Description]
-[code] Folder
+> [code] Folder
 1.  Preprocessing Images 
 first_preprocessing(crop1).py : used to cropped the original images and resizing images
 second_preprocessing(crop2).py : used to second cropped(for clear images) and save images 
