@@ -10,9 +10,7 @@
 #### [Development Enviroment]
 - Pycharm, Google Colaboratory, Jupyter notebook
 
-
-
-
+<Description>
 #### [Description]
 > [code] Folder
   1.  Preprocessing Images 
